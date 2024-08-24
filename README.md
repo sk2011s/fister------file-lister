@@ -4,7 +4,7 @@
  run install libs file or run 
 
 ```bath
-        pip install -r require.txt
+pip install -r require.txt
 ```
  
  to install Libs
