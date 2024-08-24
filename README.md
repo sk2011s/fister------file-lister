@@ -9,4 +9,6 @@ pip install -r require.txt
  
  to install Libs
 
+ *I suggest using Visual Studio Code to open this program*
+
 run app/main.py file by python and use fister
